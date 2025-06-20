@@ -1,0 +1,16 @@
+# Ignore node_modules in all subdirs
+**/node_modules/
+
+# Ignore environment files
+**/.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
