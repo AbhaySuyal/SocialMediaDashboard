@@ -105,7 +105,4 @@ MIT — feel free to use, improve, and contribute!
 
 ---
 
-## 🙌 Contribution
-
-Feel free to open issues or PRs. For large changes, open an issue first to discuss what you’d like to change.
 
