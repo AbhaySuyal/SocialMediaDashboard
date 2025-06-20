@@ -65,7 +65,7 @@ SocialMediaDashboard/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/SocialMediaDashboard.git
+git clone https://github.com/AbhaySuyal/SocialMediaDashboard.git
 cd SocialMediaDashboard
 ````
 
