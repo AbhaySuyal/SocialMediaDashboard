@@ -99,10 +99,4 @@ Then navigate to: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 📝 License
-
-MIT — feel free to use, improve, and contribute!
-
----
-
 
